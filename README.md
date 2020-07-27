@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Namaste 
 
-<!--
-**chandu03/chandu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myself **Chandragupta Singh** aka **chandu**
 
-Here are some ideas to get you started:
+Graduated from VIT Vellore batch of 2020 :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+is a **Full Stack Web Developer** :computer:
+
+uses **MERN** stack, also knows **JAVA**
+
+code in **VSCODE**
+
+actively looking for collaboration :couple_with_heart: :smiley:
