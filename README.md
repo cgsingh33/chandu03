@@ -6,7 +6,7 @@ Graduated from VIT Vellore batch of 2020 :mortar_board:
 
 knows **Full Stack Web Development** :computer:
 
-uses **MERN** stack, also knows **JAVA**
+uses **MERN** and **MEAN** stack, also knows **JAVA**
 
 code in **VSCODE**
 
