@@ -12,4 +12,4 @@ code in **VSCODE**
 
 learning **PYTHON** and **CLOUD COMPUTING**
 
-currently works in **IBM**
+currently works for **COMDEX**
